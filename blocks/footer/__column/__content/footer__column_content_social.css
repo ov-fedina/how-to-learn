@@ -1,0 +1,29 @@
+.footer__column_content_social {
+  display: flex;
+  flex-direction: column;
+  color: white;
+
+
+
+
+
+  }
+
+
+  li {
+    list-style-type: none; /*убираем маркеры*/
+
+
+
+    }
+
+
+
+
+
+    ul {
+      margin-left: 0; /*убираем отступы*/
+      padding-left: 0;
+
+
+    }

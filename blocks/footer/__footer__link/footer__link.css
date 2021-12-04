@@ -1,0 +1,26 @@
+.footer__link {
+  color: #ffffff;
+
+
+
+  }
+
+
+
+  li {
+  list-style-type: none; /*убираем маркеры*/
+
+
+
+  }
+
+
+
+
+
+  ul {
+    margin-left: 0; /*убираем отступы*/
+    padding-left: 0;
+
+
+  }
