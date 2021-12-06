@@ -4,19 +4,12 @@
   font-weight: normal;
   padding-bottom: 30px;
   margin: 0;
+}
 
+.two-columns__paragraph:last-of-type {
+  padding-bottom: 0;
+}
 
-
-  }
-
-  .two-columns__paragraph:last-of-type {
-    padding-bottom: 0;
-
-
-
-  }
-
-  .two-columns__paragraph:first-of-type {
-    margin-bottom: 0;
-
-    }
+.two-columns__paragraph:first-of-type {
+  margin-bottom: 0;
+}

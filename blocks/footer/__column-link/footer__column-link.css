@@ -7,27 +7,13 @@
   color: white;
   list-style-type: none;
   text-decoration: none;
+  transition: opacity 0.5s linear;
+}
 
+.footer__column-link:hover {
+  opacity: 0.5;
+}
 
-
-
-  }
-
-
-  .footer__column-link:hover {
-    opacity: 0.5;
-
-
-
-  }
-
-
-
-
-  .footer__column-link:last-child {
-    padding-bottom: 0;
-
-
-
-
-  }
+.footer__column-link:last-child {
+  padding-bottom: 0;
+}

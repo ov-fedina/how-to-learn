@@ -9,22 +9,4 @@
   position: absolute;
   top: 0px;
   right: -210px;
-  -webkit-animation-name: rotation;
-  -webkit-animation-duration: 20s;
-  -webkit-animation-iteration-count: infinite;
-  -webkit-animation-timing-function: linear;
-  -moz-animation-name: rotation;
-  -moz-animation-duration: 20s;
-  -moz-animation-iteration-count: infinite;
-  -moz-animation-timing-function: linear;
-  -o-animation-name: rotation;
-  -o-animation-duration: 20s;
-  -o-animation-iteration-count: infinite;
-  -o-animation-timing-function: linear;
-  animation-name: rotation;
-  animation-duration: 20s;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-
-
-  }
+}

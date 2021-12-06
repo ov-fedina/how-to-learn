@@ -2,12 +2,10 @@
   margin: 0;
   width: 515px;
   height: 316px;
-  margin-right: 20px;
-  margin-top: 50px;
+  margin: 0;
   border: 0;
-
-
-
-
 }
 
+.video__iframe:last-child {
+  margin-right: 20px;
+}
