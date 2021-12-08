@@ -4,4 +4,6 @@
   position: relative;
   margin-top: 50px;
   list-style-type: none;
+  margin-bottom: 0;
+  padding-left: 0;
 }
